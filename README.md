@@ -59,7 +59,7 @@ Make sure you have Python 3.8+ installed on your system. You can download it fro
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/yourusername/learning-resources.git
+   git clone https://github.com/Kibet-Rotich/data-science-learning.git
    cd learning-resources
    ```
 
